@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Absurd/static/css/main.1d42cd8f.css",
+    "main.js": "/Absurd/static/js/main.c97c500c.js",
+    "index.html": "/Absurd/index.html",
+    "main.1d42cd8f.css.map": "/Absurd/static/css/main.1d42cd8f.css.map",
+    "main.c97c500c.js.map": "/Absurd/static/js/main.c97c500c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d42cd8f.css",
+    "static/js/main.c97c500c.js"
+  ]
+}
